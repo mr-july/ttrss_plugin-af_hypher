@@ -1,0 +1,3 @@
+[submodule "phpHypher"]
+	path = phpHypher
+	url = https://github.com/mr-july/phpHypher
